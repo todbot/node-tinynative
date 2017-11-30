@@ -1,0 +1,19 @@
+{
+  "name": "tinynative",
+  "version": "1.0.0",
+  "description": "Simplest possible native module",
+  "author": "Tod E. Kurt <todbotdotcom@gmail.com> (https://todbot.com/blog/)",
+  "repository": "https://github.com/todbot/node-tinynative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "nan": "^2.8.0"
+  }
+}
