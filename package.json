@@ -1,6 +1,6 @@
 {
   "name": "tinynative",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simplest possible native module",
   "author": "",
   "repository": "https://github.com/todbot/node-tinynative",

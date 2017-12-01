@@ -1,7 +1,7 @@
 #include <nan.h>
 #include <stdio.h>
 
-#define USE_ATEXIT 0
+#define USE_ATEXIT 1
 
 using namespace v8;
 using namespace node;
